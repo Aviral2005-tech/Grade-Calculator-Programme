@@ -24,7 +24,7 @@ This Python program calculates a student's grade based on marks entered by the u
 ## How to Run
 
 ```bash
-python student_grade_calculator.py
+ python Student_grade_cal.py
 ```
 
 ## Files
